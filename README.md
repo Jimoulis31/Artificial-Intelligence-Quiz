@@ -10,7 +10,7 @@ An interactive **AI-powered quiz game** built with Python and Tkinter. The game 
 
 ## 📸 Screenshot
 
-![AI Quiz Screenshot](path/to/your/screenshot.png)
+![AI Quiz Screenshot](aiquiz.png)
 
 ---
 
